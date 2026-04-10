@@ -31,7 +31,7 @@ The workflow validates order status, checks the estimated delivery date, calcula
 - WooCommerce store with REST API access  
 - Gmail account (OAuth enabled)  
 - Slack workspace  
-- n8n instance (Cloud or Self-hosted)  
+- [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi) (Cloud or Self-hosted)  
 
 
 ## Workflow Steps
